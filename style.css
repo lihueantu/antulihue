@@ -2,7 +2,7 @@ body{
     font-family: 'Times New Roman', Times, serif;
     background: fixed;
   text-align: center;
-  color: azure;
+  color:orange;
   padding: 30;
 }
 
@@ -38,5 +38,5 @@ transition:0.3s;
 
 
 .link:hover{
-background:#ddd;
+background:red;
 }
